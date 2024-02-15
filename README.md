@@ -2,7 +2,7 @@
 
 # Copernic Jobs
 
-The following project consists of a Spring Boot and React application for finding job offers, designed for the Nicolau Copernic Institute.
+The following project consists of a Spring Boot and React application for finding and publishing new job offers, designed for the Nicolau Copernic Institute that allows old and new students to enroll job offers and the companies to publish them.
 
 ## Technologies
 
