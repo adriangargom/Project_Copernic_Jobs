@@ -1,0 +1,13 @@
+FROM openjdk:17-jdk-slim
+
+LABEL version="0.1"
+LABEL description="Spring Boot Java Backend Container for CopernicJobs"
+
+WORKDIR /app
+
+COPY ./backend/target/backend.jar .
+
+EXPOSE 8080
+EXPOSE 587
+
+CMD ["java", "-jar", "./backend.jar"]
