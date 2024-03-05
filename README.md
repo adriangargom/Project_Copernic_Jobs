@@ -69,14 +69,3 @@ The student users can perform the following actions over the application:
 ### Real Working repository
 
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/abp_proyect_copernicjobs)
-
-### Project Mocks and Designs
-
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/wZxavDMvmwqt1oLiJMaj9k/Borsa-Cop%C3%A8rnic-ERP?type=design&node-id=0%3A1&mode=design&t=6Dm6yHqj0x0wKaBk-1)
-
-
-### Other Resources
-
-[Link to the presentation video](https://drive.google.com/file/d/1yFVNXISqde5zdfRtNNt_84OaFf16vfbh/view?usp=sharing)
-
-[Link to the memory](https://docs.google.com/document/d/1pSUo712KVO-pkd-E9kiE9OLMdSEOf9X-L-bR7J5ozvQ/edit?usp=sharing)
